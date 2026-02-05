@@ -11,12 +11,10 @@ function App() {
         rfg: 14,
         ifg: 20,
         bbg: 30,
-        rfg: 14,
-        ifg: 20,
-        bbg: 30,
         filePath: '',
         port: '' // Port for UART
     })
+
 
     const [status, setStatus] = useState(null)
     const [isSubmitting, setIsSubmitting] = useState(false)
