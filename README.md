@@ -94,10 +94,6 @@ pip install flask flask-cors pyserial
 python app.py
 ```
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions welcome! Please open an issue or submit a pull request.
